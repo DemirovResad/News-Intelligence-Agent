@@ -44,7 +44,7 @@ maksimum xəbər sayı) sol paneldə alır, nəticəni kart formatında göstər
 kartın üzərinə gələndə (hover) ətraflı xülasə açılır, sağ yuxarı küncdəki 🔗 ikonu
 məlumatın götürüldüyü mənbəni açır.
 
-![UI ekran görüntüsü](assets/ui_screenshot.png)
+![UI ekran görüntüsü](ui_screenshot.png)
 
 ## Layihə strukturu
 
