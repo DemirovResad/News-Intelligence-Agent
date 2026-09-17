@@ -1,0 +1,37 @@
+# Sensitiv konfiqurasiya — API açarları burda saxlanılır
+.env
+.env.*
+!.env.example
+
+# search_node-un yazdığı raw_results dump-ları
+raw_results/
+
+# extract_profile_node-un çıxardığı profil JSON-ları (scraped mətn ehtiva edir)
+extract_profil/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.Python
+build/
+dist/
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
